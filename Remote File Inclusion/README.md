@@ -80,7 +80,6 @@ Explicando o que aconteceu dessa vez:
 
 ## Links
 ---
-- [Tutorial LFI](http://forum.guiadohacker.com.br/showthread.php?t=14052)
 - [Entendendo mais sobre LFI](http://www.diegomacedo.com.br/vulnerabilidades-de-remotelocal-file-inclusion-rfi-lfi/)
 - [WebShells](https://www.myshellcode.com/shell/webadmin.txt)
 
