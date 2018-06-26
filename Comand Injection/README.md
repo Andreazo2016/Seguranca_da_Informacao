@@ -12,4 +12,11 @@
 ![comandinjection](removido_arquivo.PNG)
 
 ### Atividade 2:
-Essa atividade eu não conclui devido a não saber como faz, mesmo com o tutorial, pois no dia que estava sendo apresentado esse lab eu faltei.
+1. Página Inicial
+![PaginaInical](pagina_inicial.png)
+2. Acessa Pasta Profile
+![PaginaInical](acessar_pagina_profile.png) 
+3. Listar conteúdo
+![PaginaInical](listar_conteudo.png) 
+4. Criando arquivo
+![PaginaInical](arquivo_criado.png) 
